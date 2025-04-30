@@ -8,6 +8,8 @@ Paper: MVTec AD –a comprehensive real-world dataset for unsupervised anomaly d
 
 It consists of 5 categories, i.e. breakfast box, juice bottle, pushpins, screw bag and splicing connectors. The MVTec AD dataset contains 3,629 training images and 1,725 test images
 
+Download: [Link](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+
 ## MVTec LOCO
 
 Paper: Beyond dents and scratches: Logical constraints in unsupervised anomaly detection and localization.
@@ -18,9 +20,11 @@ The dataset comprises approximately 3,644 images, distributed as 1,772 images fo
 
 Paper: Spot-the-difference self-supervised pretraining for anomaly detection and segmentation.
 
-The VisA dataset consists of 9,621 normal and 1,200 anomalous color images encompassing 12 objects across 3 domains, including complex structure, single instance and multiple instances. The anomalous images exhibit various flaws, including surface defects such as
-scratches, dents, color spots or cracks, and logical defects
+The VisA dataset consists of 9,621 normal and 1,200 anomalous color images encompassing 12 objects across 3 domains, including complex structure, single instance, and multiple instances. The anomalous images exhibit various flaws, including surface defects such as
+scratches, dents, color spot,s or cracks, and logical defects
 like misplacement or missing parts.
+
+Download: [Link](https://github.com/amazon-science/spot-diff?tab=readme-ov-file#data-download)
 
 ## MPDD 
 
