@@ -1,6 +1,6 @@
-# cv_dataset
+# 缺陷检测（anomaly detection）
 
-可用于缺陷检测的公开数据集：
+可用于缺陷检测（anomaly detection）的公开数据集：
 
 ## MVTec AD 
 
@@ -33,3 +33,18 @@ Paper: Deep learning-based defect detection of metal parts: evaluating current m
 MPDD 是一个旨在对工业金属零件制造中的视觉缺陷检测方法进行基准测试的数据集。该数据集包含 1000 多张图像，并配有像素级精度的缺陷标注掩码。数据集分为两个子集：训练子集仅包含无异常样本，验证子集则包含正常样本和异常样本。
 
 下载: [Link](https://vutbr-my.sharepoint.com/personal/xjezek16_vutbr_cz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxjezek16%5Fvutbr%5Fcz%2FDocuments%2FMPDD&ga=1)
+
+## BTAD
+
+Paper: VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization
+
+BTAD（beanTech Anomaly Detection）是一个真实工业场景下的异常检测数据集。该数据集包含共计 2,830 张真实图像，涵盖 3 种工业产品，展示了其在结构和表面上的缺陷。
+
+下载：[link](http://avires.dimi.uniud.it/papers/btad/btad.zip)
+
+## MTD
+
+Saliency of magnetic tile surface defects
+
+下载：[link](https://github.com/abin24/Magnetic-tile-defect-datasets./tree/master)
+
