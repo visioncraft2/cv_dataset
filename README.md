@@ -8,7 +8,7 @@ Paper: MVTec AD – a comprehensive real-world dataset for unsupervised anomaly 
 
 MVTec AD 是一个用于基准测试异常检测方法的数据集，重点面向工业检测场景。该数据集包含五个类别，分别是早餐盒、果汁瓶、图钉、螺丝包和拼接连接器。MVTec AD 数据集包含 3629 张训练图片和 1725 张测试图片。
 
-Download: [Link](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+下载: [Link](https://www.mvtec.com/company/research/datasets/mvtec-ad)
 
 ## MVTec LOCO (MVTec logical constraints anomaly detection dataset)
 
@@ -16,7 +16,7 @@ Paper: Beyond dents and scratches: Logical constraints in unsupervised anomaly d
 
 该数据集包含约 3,644 张图片，其中 1772 张用于训练，304 张用于验证，1568 张用于测试。
 
-下载: [Link]（https://www.mvtec.com/company/research/datasets/mvtec-loco）
+下载: [Link](https://www.mvtec.com/company/research/datasets/mvtec-loco)
 
 ## VisA 
 
