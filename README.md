@@ -48,3 +48,10 @@ Saliency of magnetic tile surface defects
 
 下载：[link](https://github.com/abin24/Magnetic-tile-defect-datasets./tree/master)
 
+## MMAD
+
+Paper: MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection
+
+MMAD是一个面向工业异常检测的全方位多模态大模型（MLLM）评估基准。我们定义了多模态大模型在工业检测中的七个关键子任务，并设计了一条新颖的数据生成流程，构建了 MMAD 数据集，其中包含 8,366 张工业图像和 39,672 个相关问题。
+
+下载：[link](https://github.com/jam-cc/MMAD)
