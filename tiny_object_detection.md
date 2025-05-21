@@ -5,7 +5,7 @@ Paper: VisDrone: A Large-Scale Benchmark and Challenge for Vision Meets Drones
 
 简介：VisDrone 由中国科技大学发布，是一个大规模的无人机视觉数据集，涵盖城市、郊区等多种场景，包含车辆、行人、自行车等小目标，适用于目标检测、跟踪等任务。
 
-下载：GitHub - VisDrone/VisDrone-Dataset: The dataset fo...
+下载：https://github.com/VisDrone/VisDrone-Dataset
 
 ## TinyPerson
 Paper: TinyPerson: A Large-scale Tiny Person Detection Benchmark
@@ -26,13 +26,14 @@ Paper: AI-TOD: A Benchmark for Tiny Object Detection in Aerial Images
 
 简介：AI-TOD 聚焦于遥感图像中的微小目标（例如车辆、飞机、船只等），涵盖超过28个类别，目标尺度极小，适用于极端小目标检测研究。
 
-下载：GitHub - jwwangchn/AI-TOD: Official code for "Tiny...
+下载：https://github.com/jwwangchn/AI-TOD
 
 ## DOTA
 
 Paper: DOTA: A Large-scale Dataset for Object Detection in Aerial Images
 
 简介：DOTA 是遥感领域著名的数据集，包含15种目标类别，包括车辆、船只等小目标，目标尺度变化大，支持水平框与旋转框标注。
+
 下载：https://captain-whu.github.io/DOTA/dataset.html
 
 ## RSOD
@@ -40,7 +41,7 @@ Paper: A High Resolution Optical Remote Sensing Image Dataset for Ship and Vehic
 
 简介：RSOD 是一个高分辨率遥感图像数据集，包含飞机、油罐车、操场、立交桥等目标，适合小目标检测任务。
 
-下载：GitHub - RSIA-LIESMARS-WHU/RSOD-Dataset-: An open ...
+下载：https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
 
 ## SODA
 Paper: SODA: A large-scale Small Object Detection Dataset
