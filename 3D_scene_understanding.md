@@ -18,22 +18,22 @@ ScanNet 是一个大规模的 RGB-D 视频数据集，包含超过 1500 个室�
 ## 下载: https://github.com/WaldJohannaU/3RScan
  
 
-ARKitScenes
+# ARKitScenes
 Paper: ARKitScenes: A Diverse Real-World Dataset for 3D Indoor Scene Understanding Using Mobile RGB-D Data
 
-简介：
+## 简介：
 ARKitScenes 是由 iOS ARKit 采集的多样化室内 RGB-D 场景数据集，强调移动设备上的数据采集与三维场景重建。数据包括场景重建、相机轨迹和物体注释，覆盖多种真实场景，适合评估在消费者设备上部署的 3D-VLM 能力。
 
-下载: https://github.com/apple/ARKitScenes
+## 下载: https://github.com/apple/ARKitScenes
 
 
-HM3D
-Paper: Habitat-Matterport 3D Dataset (HM3D): 1000 Large-Scale 3D Environments for Embodied AI
+# HM3D
+## Paper: Habitat-Matterport 3D Dataset (HM3D): 1000 Large-Scale 3D Environments for Embodied AI
 
-简介：
+## 简介：
 HM3D 是目前最大规模的高质量室内三维场景数据集之一，包含超过 1000 个真实建筑环境的高分辨率扫描，包括住宅、商业与公共空间，适用于跨房间场景理解、多房间导航和 embodied AI 研究。LSceneLLM 所引入的 XR-Scene 基准任务就基于此数据集构建，扩展了当前大场景理解的评测范围。
 
-下载: https://github.com/facebookresearch/habitat-matterport3d-dataset?tab=readme-ov-file
+## 下载: https://github.com/facebookresearch/habitat-matterport3d-dataset?tab=readme-ov-file
 
 以下是构建在上文提到的基础数据集上的任务型 3D数据集，它们围绕特定任务（如问答、目标定位、描述等）设计，广泛用于评估 3D Vision-Language Models（3D-VLMs）的性能。
 
