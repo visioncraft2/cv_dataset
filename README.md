@@ -1,6 +1,9 @@
+
+
+
 # 缺陷检测（anomaly detection）
 
-可用于缺陷检测（anomaly detection）的公开数据集：
+[缺陷检测（anomaly detection）](https://github.com/visioncraft2/cv_dataset/blob/main/anomaly_detection.md)
 
 ## MVTec AD 
 
