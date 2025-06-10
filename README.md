@@ -11,14 +11,14 @@
 
 [小目标检测 (tiny object detection）](https://github.com/visioncraft2/cv_dataset/blob/main/tiny_object_detection.md)
 
-# 缺陷检测（anomaly detection）
+# 人脸视频数据集 (face video dataset)
 
-[缺陷检测（anomaly detection）](https://github.com/visioncraft2/cv_dataset/blob/main/anomaly_detection.md)
+[人脸视频数据集 (face video dataset)](https://github.com/visioncraft2/cv_dataset/blob/main/face_video_dataset.md)
 
 
-# 缺陷检测（anomaly detection）
+# 遥感 视觉-语言模型数据集 (remote sensing VLM dataset)
 
-[缺陷检测（anomaly detection）](https://github.com/visioncraft2/cv_dataset/blob/main/anomaly_detection.md)
+[遥感 视觉-语言模型数据集 (remote sensing VLM dataset)](https://github.com/visioncraft2/cv_dataset/blob/main/remote_sensing_vlm.md)
 
 欢迎大家扫码加入【机器视觉工坊】，可以获取计算机视觉最新的研究和以及应用。轻松第一时间关注最前沿的的动向，包含深度学习、AIGC、扩散模型、多模态、自动驾驶、医疗影像和遥感等方向的内容。赶快加入，一起进步！
 
