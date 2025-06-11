@@ -21,7 +21,9 @@ Paper: Flow-guided One-shot Talking Face Generation with a High-resolution Audio
 ## CelebV-HQ
 
 Paper: CelebV-HQ: A Large-Scale Video-Based High-Quality Talking Head Dataset
+
 简介：高质量人脸视频数据集，采集于名人采访视频，具有高清分辨率和良好的表情变化，适用于视频生成、表情迁移、唇形合成等任务。
+
 下载：https://github.com/CelebV-HQ/CelebV-HQ
 
 ## FaceVid-1K
