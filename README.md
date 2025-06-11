@@ -17,10 +17,14 @@
 
 ## 人脸视频数据集 (face video dataset)
 
+人脸视频数据集广泛应用于计算机视觉和人工智能多个研究与应用领域，主要用途包括：人脸识别、人脸跟踪、表情识别与情感分析、身份验证与活体检测、人脸对齐与建模、语音驱动与唇动合成、异常行为检测。这些应用依赖视频数据中丰富的时序信息，相较静态图像更能刻画真实世界中人脸的变化与动态特征。
+
 [人脸视频数据集 (face video dataset)](https://github.com/visioncraft2/cv_dataset/blob/main/face_video_dataset.md)
 
 
 ## 遥感 视觉-语言模型数据集 (remote sensing VLM dataset)
+
+遥感视觉-语言模型（Remote Sensing Vision-Language Models）数据集是一类融合遥感图像与自然语言描述的多模态数据资源，旨在推动遥感图像智能理解、检索与推理任务的发展。其典型应用和研究任务包括：图文检索（Image-Text Retrieval）、图文匹配（Cross-modal Matching）、遥感图像描述（Image Captioning）、遥感问答（Remote Sensing Visual Question Answering, RSVQA）、跨模态预训练与下游任务迁移。
 
 [遥感 视觉-语言模型数据集 (remote sensing VLM dataset)](https://github.com/visioncraft2/cv_dataset/blob/main/remote_sensing_vlm.md)
 
