@@ -2,12 +2,16 @@
 # 介绍
 本文是一个常用的计算机视觉数据集汇总，会持续长期更新
 
-## ​3D场景理解 (3D scene understanding)
+## ​3D场景理解 (3D scene understanding) 数据集
 
-[​3D场景理解 (3D scene understanding)](https://github.com/visioncraft2/cv_dataset/blob/main//3D_scene_understanding.md)
+3D场景理解是计算机视觉与人工智能领域的重要研究方向，旨在让计算机从图像、视频或点云等数据中识别和重建三维环境的结构与语义信息。其核心任务包括：三维重建、语义分割、场景图生成与关系建模。应用领域包括：自动驾驶、增强现实、机器人导航、室内设计、数字孪生等。该方向融合了图像处理、深度学习、图神经网络、SLAM等多种技术。
+
+[​3D场景理解 (3D scene understanding)数据集](https://github.com/visioncraft2/cv_dataset/blob/main//3D_scene_understanding.md)
 
 
 ## 小目标检测 (tiny object detection) 数据集
+
+小目标检测（Small Object Detection, SOD）是目标检测领域长期存在的重要挑战。小目标广泛存在于自动驾驶、安防监控、遥感图像等实际场景中，因此开发鲁棒高效的小目标检测方法具有重要理论价值与应用前景。
 
 [小目标检测 (tiny object detection）](https://github.com/visioncraft2/cv_dataset/blob/main/tiny_object_detection.md)
 
