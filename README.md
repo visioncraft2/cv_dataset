@@ -28,11 +28,15 @@
 
 [遥感 视觉-语言模型数据集 (remote sensing VLM dataset)](https://github.com/visioncraft2/cv_dataset/blob/main/remote_sensing_vlm.md)
 
+## 三维可变模型数据(3D Morphable Model Dataset)
 
+三维可变模型（3D Morphable Model, 3DMM） 是一种统计建模方法，用于表示和操控三维形状，最常应用于人脸建模。该方法由 Blanz 和 Vetter 于 1999 年提出，其核心思想是在一组三维扫描数据上通过主成分分析（PCA）提取形状与纹理的变化模式
+
+[三维可变模型数据(3D Morphable Model Dataset)](https://github.com/visioncraft2/cv_dataset/blob/main/3dmm.md)
 
 # 机器视觉工坊
 
-想了解更多计算机视觉最新的研究和以及应用，欢迎大家扫码加入【机器视觉工坊】。轻松第一时间关注最前沿的的动向，包含深度学习、AIGC、扩散模型、多模态、自动驾驶、医疗影像和遥感等方向的内容。赶快加入，一起进步！
+想了解更多计算机视觉最新的研究以及应用，欢迎大家扫码加入【机器视觉工坊】。轻松第一时间关注最前沿的动向，包含深度学习、AIGC、扩散模型、多模态、自动驾驶、医疗影像和遥感等方向的内容。赶快加入，一起进步！
 
 
 ![](kp_coupon.png)
