@@ -34,6 +34,12 @@
 
 [三维可变模型数据(3D Morphable Model Dataset)](https://github.com/visioncraft2/cv_dataset/blob/main/3dmm.md)
 
+## 动作识别（Action recognition）数据集
+
+动作识别是一项在图片或者视频中识别人体动作的任务，任务目标通常是将出现的动作分类或者归纳到预先定义的类别当中。在安全，人机交互等领域有诸多应用。
+
+[动作识别（Action recognition）数据集](https://github.com/visioncraft2/cv_dataset/blob/main/action_recognition.md)
+
 # 机器视觉工坊
 
 想了解更多计算机视觉最新的研究以及应用，欢迎大家扫码加入【机器视觉工坊】。轻松第一时间关注最前沿的动向，包含深度学习、AIGC、扩散模型、多模态、自动驾驶、医疗影像和遥感等方向的内容。赶快加入，一起进步！
